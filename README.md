@@ -54,18 +54,24 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00C7B7?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
 **AI Tools**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-6C63FF?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+
+
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 [Gradly — Student Management System](https://gradly-student-management-system.onrender.com)
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Multer` `Nodemailer`
+`Node.js` `Express.js` `EJS` `MongoDB` `JWT` `Multer` `Nodemailer` 🔄 MERN rewrite planned
 
 Full-stack MERN application with JWT auth, role-based access control for 3 user types, and full CRUD on 500+ student records. Features file uploads (Multer), automated email notifications (Nodemailer), pagination + search + filtering. Deployed live on Render.
 
