@@ -70,10 +70,13 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Gradly — Student Management System](https://gradly-student-management-system.onrender.com)
-`Node.js` `Express.js` `EJS` `MongoDB` `JWT` `Multer` `Nodemailer` 🔄 MERN rewrite planned
+### 📊 [Gradly — Full Stack Content & User Management Platform](https://gradly-student-management-system.onrender.com)
+`Node.js` `Express.js` `EJS` `MongoDB` `JWT` `Multer` `Bcrypt` `Nodemailer` 🔄 MERN rewrite planned
 
-Full-stack MERN application with JWT auth, role-based access control for 3 user types, and full CRUD on 500+ student records. Features file uploads (Multer), automated email notifications (Nodemailer), pagination + search + filtering. Deployed live on Render.
+Full-stack web application with JWT auth, role-based access control 
+(Admin & User), video feed with latest uploads, user profile management, 
+file uploads via Multer, and automated email notifications via Nodemailer. 
+Admin can manage all users. Deployed live on Render.
 
 ---
 
